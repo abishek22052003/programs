@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.main{
+    background-color:lightblue;
+}
+.header{
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px;
+    background-color: cyan;
+}
+section{
+    padding: 10px;
+}
+.left{
+    width: 60%;
+    display: inline-block;
+    border: 1px solid;
+    background-color: gray;
+    text-align: center;
+    padding: 115px 0px;
+    vertical-align: top;
+}
+.right{
+    display: inline-block;
+    width: 38%;
+    margin-left: 25px;
+}
+.hero{
+    background-color: gray;
+    text-align: center;
+    padding: 50px 0px;
+}
+.call1{
+    background-color: orange;
+    text-align: center;
+    padding: 50px 0px;
+    margin-top: 5px;
+}

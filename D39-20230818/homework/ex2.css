@@ -1,0 +1,41 @@
+*
+/* .zero{
+    border: 1px solid black;
+} */
+.one{
+    text-align: center;
+    border: 1px solid black;   
+}
+.two{
+    text-align: center;
+    border: 1px solid black;
+}
+.three{
+
+    width: 10%;
+    display: inline-block;
+    /* padding: 100; */
+    border: 1px solid black;
+    padding: 200px 0px 200px 115px;
+    /* margin-right: 150; */
+
+
+}
+.four{
+    width: 50%;
+    display: inline-block;
+    /* text-align:right; */
+}
+.five{
+    border: 1px solid black;
+    text-align: center;
+}  
+
+.merge{
+    border: 1px solid black;
+}
+.h1one{
+    padding-left:520 ;
+
+
+}

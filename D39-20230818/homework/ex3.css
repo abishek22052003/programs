@@ -1,0 +1,52 @@
+*
+.header{
+    border: 2px solid black;
+    text-align: center;
+
+}
+.nav{
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 10;
+}
+.main{
+    width: 50%;
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 10;
+    padding: 0px 0px 250px 0px;
+    display: inline-block;
+    vertical-align:top ;
+}
+.merge{
+    display: inline-block;
+}
+.aside{
+    width: 50%;
+    border: 2px solid black;
+    margin-top: 10;
+    padding: 0px 588px 60px 0px;
+
+}
+.section{
+    width: 50%;
+    border: 2px solid black;
+    margin-top: 10;
+    padding: 0px 588px 196px 0px;
+}
+.aside1{
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 10;
+}
+.footer{
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 10;
+}
+.mainhead{
+    padding: 250px 0px 0px 0px;
+}
+.asidehead{
+    padding: 100px 0px 0px 100px;
+}

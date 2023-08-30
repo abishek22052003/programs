@@ -1,0 +1,5 @@
+print("+","-"*40,"+")
+print("|1|"," "*10,"EnglishIII","|"," "*6,"Ms.japen |")
+print("|1|"," "*10,"Maths","|"," "*6,"Mr.Perumal |")
+print("|1|"," "*10,"Science","|"," "*6,"Ms.Janani |")
+print("|1|"," "*10,"Tamil","|"," "*6,"Mr.Arun |")

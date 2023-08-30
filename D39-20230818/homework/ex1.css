@@ -1,0 +1,56 @@
+/* *{padding: 0px;
+margin: 0px;} */
+*
+.main{
+    border: 1px solid black;
+    padding: 1%;
+
+    text-align: center;
+}
+.header{
+    border: 1px solid black;
+
+}
+.navigation{
+    border: 1px solid black;
+    margin: 10px 0px 0px 0px;
+}
+.merge{
+    width: 60%;
+    display: inline-block;
+    margin: 10px 0px 0px 0px ;
+    
+}
+.section{
+    border: 1px solid black;
+    height: 300px ;
+    width: 100%;
+}
+.article{
+    border: 1px solid black;
+    height: 300px;
+    width: 100%;
+    margin: 10px 0px 0px 0px;
+}
+.aside{
+    border: 1px solid black;
+    display: inline-block;
+    margin: 10px 0px 0px 5px;
+    width: 39%;
+    height: 614px;
+    vertical-align: top;
+}
+.footer{
+    border: 1px solid black;
+    padding: 30px;
+    margin: 10px 0px 0px 0px;
+}
+.h1one{
+    padding-top: 100;
+}
+.h2two{
+    padding-top: 100;
+}
+.h3three{
+    padding-top: 250;
+}

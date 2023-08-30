@@ -1,0 +1,24 @@
+consumer_data = {
+    "consumer_name": "user",
+    "eb_reading": [1100, 1200, 1350, 1650, 2050]}
+reading=consumer_data["eb_reading"]
+dictionary_view=[]
+for unit in range(len(reading)-1):
+    unit1=reading[unit]
+    unit2=reading[unit+1]
+    total=unit2-unit1
+    month=unit+1
+    if total>=100 and total<200:
+        rs=2
+        amount=total*rs
+        diction={"month":month,"units consumed":total,"bill amount":amount}
+    elif total>=200:
+        rs=5
+        amount=total*rs
+        diction={"month":month,"units consumed":total,"bill amount":amount}
+    dictionary_view.append(diction)
+# with open("/home/abishek/text/dictionary.txt","w") as file:
+#     for key in dictionary_view:
+#         file.write(f"month:{key['month']}\nunits consumed:{key['units consumed']}\nbill amount:{key['bill amount']}\n")
+
+

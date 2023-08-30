@@ -1,0 +1,11 @@
+print(5)
+print("5")
+#print"hello"
+print("hello,world!")
+print(5+2)
+print("5"+"8")
+print("5+8")
+#print("45"+44)
+print("abi"+"shek")
+print(44+"44")
+print("abi"+"33")
